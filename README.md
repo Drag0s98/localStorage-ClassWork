@@ -1,1 +1,3 @@
 # localStorage-ClassWork
+
+Lorem ipsum
