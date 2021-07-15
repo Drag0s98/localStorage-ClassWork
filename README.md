@@ -1,3 +1,6 @@
 # localStorage-ClassWork
 
-Lorem ipsum
+
+
+Texto de prueba
+
