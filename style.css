@@ -24,3 +24,8 @@ input{
 form {
     margin: 3rem;
 }
+p{
+    color: blueviolet;
+    border: 1px groove black;
+    background-color: cornsilk;
+}
