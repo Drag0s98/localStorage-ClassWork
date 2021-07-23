@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: teal;
+    font-size: 1.4rem;
+}
+
+form {
+    margin: 3rem;
+}
