@@ -37,7 +37,7 @@ document.querySelector('form').addEventListener('submit', (event) => {
             datos.appendChild(document.createTextNode(`${data}`));
             document.getElementById('datos').appendChild(datos)
         })
-        
+        //Añado un comentario 
     
    /*  document.querySelector('#boton1').addEventListener('click', (e) =>{
         localStorage.clear();   
